@@ -1,0 +1,10 @@
+Company,Fiscal Year,Total Revenue (in billions),Net Income (in billions),Total Assets (in billions),Total Liabilities (in billions),Cash Flow from Operating Activities (in billions)
+Microsoft,2024,$245.12,$89.00,$410.00,$191.00,$95.00
+Microsoft,2023,$211.92,$72.74,$364.84,$176.00,$81.00
+Microsoft,2022,$198.27,$67.45,$333.78,$168.69,$77.00
+Tesla,2023,$96.77,$12.60,$100.00,$40.00,$15.00
+Tesla,2022,$81.46,$11.19,$82.00,$35.00,$14.00
+Tesla,2021,$53.82,$5.52,$62.00,$28.00,$11.00
+Apple,2024,$391.04,$99.80,$400.00,$200.00,$110.00
+Apple,2023,$383.29,$94.68,$380.00,$190.00,$105.00
+Apple,2022,$394.33,$99.80,$350.00,$180.00,$104.00
